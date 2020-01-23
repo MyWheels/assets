@@ -1,0 +1,11 @@
+{
+  "search.exclude": {
+    "docs/*": true
+  },
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.fontFamily": "'Fira Code', 'Fira Code Retina'",
+  "editor.fontLigatures": true,
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "activityBar.activeBackground": true
+}
