@@ -1,0 +1,1 @@
+for f in logo_*large.png; do convert $f -resize x42 -quality 100% -filter spline -unsharp 0x1 `basename $f large.png`small.png; done
