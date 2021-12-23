@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="60" height="60" viewBox="0 0 100 100">
+  <circle r="50" cx="50" cy="50" fill="#1b70de" fill-opacity=".359"/>
+  <circle r="42" cy="50" cx="50" fill="#1b70de" fill-opacity=".779"/>
+  <circle r="30" cy="50" cx="50" fill="#fff"/>
+  <text x="50" y="50" text-anchor="middle" dominant-baseline="middle" font-size="26" font-weight="bold" style="font-family: 'Source Sans Pro', Arial, Helvetica, sans-serif;" fill="#3f6473">3</text>
+</svg>
